@@ -12,7 +12,7 @@
 여러 수들로 빼곡히 채워져있는 것을 확인할 수 있었다.
 
 이를 파이썬을 이용해 여러 파일 중 하나를 시각화해본 결과<br>
-![image](https://github.com/user-attachments/assets/c672d5eb-05ef-4ffc-9a58-be40910a590a)
+![image](https://github.com/user-attachments/assets/c672d5eb-05ef-4ffc-9a58-be40910a590a)<br>
 해당 사진처럼 이 데이터가 해당 시간대에 있는 유동인구 수를 나타내고 있다는 것을 확인할 수 있었다.
 
 ## 모델 생성을 위한 train, test 데이터 생성
