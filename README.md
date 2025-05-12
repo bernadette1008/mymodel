@@ -4,8 +4,8 @@
 
 ## 데이터분석
 ![image](https://github.com/user-attachments/assets/5ad51cf4-9874-4d6b-9431-ac526c423223)<br>
-데이터의 종류는 여자와 남자의 시간대별 데이터로이름으로 데이터를 분석해봤을 때<br>
-"날짜_성별_?_?_?_시간.csv"로 보인다.
+이번에 사용해볼 데이터는 위에 데이터들로 이름으로 데이터를 간단히 분석해봤을 때<br>
+데이터의 이름은 "날짜_성별_?_?_?_시간.csv"을 의미하는 것으로 보이며
 
 또한 파일은 내용은<br>
 ![image](https://github.com/user-attachments/assets/101dba14-465e-4e12-8094-5dba161313a5)<br>
